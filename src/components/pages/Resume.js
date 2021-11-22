@@ -4,7 +4,8 @@ import pdf from "../../images/Joseph_Perri_Resume.pdf";
 export default function Resume() {
   return (
     <div>
-      <h1>Resume Page</h1>
+      <h1>Resume</h1>
+      <br />
       <a href={pdf}>Download My Resume</a>
       <br />
       <br />
