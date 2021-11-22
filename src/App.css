@@ -1,23 +1,22 @@
 * {
   text-align: center;
-  background-color: #282c34;
-  color: wheat;
+  background-color: #302f2e;
+  color: #23b626;
 }
 
 .App {
   text-align: center;
-  background-color: #282c34;
+  background-color: #302f2e;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #302f2e;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .Footer {
@@ -34,15 +33,15 @@ li {
 }
 
 a:hover {
-  color: green !important;
+  color: #2a732a !important;
 }
 
 a {
-  color: #62cc31 !important;
+  color: #23b626 !important;
 }
 
 .nav-link {
-  background-color: slateblue !important;
+  background-color: #2e402d !important;
 }
 
 div.card-body img {
@@ -51,7 +50,7 @@ div.card-body img {
 }
 
 .card {
-  background-color: #474a45 !important;
+  background-color: #302f2e !important;
 }
 
 .col-md-6 {
